@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# gen.py is copyright (C) 2008 by Dave Crossland
+# gen.py is copyright (C) 2008-2012, Dave Crossland (dave@understandingfonts.com)
 #
 #   Redistribution and use in source and binary forms, with or without
 #   modification, are permitted provided that the following conditions are met:
@@ -25,7 +25,7 @@
 #   WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 #   OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 #   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-"""A FontForge plug-in to automate stepping forward my project: snapshot the
+"""A FontForge plug-in to automate stepping forward font projects: snapshot the
    current state of the font, create test documents, and print/upload them.
    Copy to ~/.FontForge/python/ and then find "Next Step" in the Tools menu.
 """
